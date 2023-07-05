@@ -2,10 +2,10 @@
 layout: page
 title: english
 permalink: /english/
-description: A growing collection of your cool english.
+description: Tiandy's english learning materials.
 nav: true
 nav_order: 2
-display_categories: [language, learn]
+# display_categories: [language, learn]
 horizontal: false
 ---
 

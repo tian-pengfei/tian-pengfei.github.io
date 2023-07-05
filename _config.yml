@@ -173,10 +173,10 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
   english:
-    output: false
+    output: true
     permalink: /english/:path/
 
 announcements:
