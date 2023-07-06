@@ -1,7 +1,7 @@
 ---
 layout: page
-title: english 1
-description: a english material("Q&A" from StoryCorps)
+title: Q&A from StoryCorps
+description: a english material from StoryCorps
 img: assets/img/lang_learn/english/english_001.jpg
 importance: 1
 category: [language,english]
