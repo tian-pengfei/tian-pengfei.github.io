@@ -206,6 +206,42 @@ and I'm so lucky to have you as my son.
 
 4. What did you often do during your childhood?
 
+    
+
+5. What are the best things about being an adult?
+
+    
+
+6. What are the best things about being an adult?
+
+
+
+
+
+## Vocabulary
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **scale**         | /skeɪl/          |
+| **cockroache**    | /'kɑk'rotʃ/      |
+| **venomous**      | /ˈvenəməs/       |
+| **constrict**     | /kənˈstrɪkt/     |
+| **depress**       | /dɪˈpres/        |
+| **perceptive**    | /pərˈseptɪv/     |
+| **mortal**        | /ˈmɔːrtl/        |
+| **stomachache**   | /'stʌmək,ek/     |
+| **syndrome**      | /ˈsɪndroʊm/      |
+| **fantasy**       | /ˈfæntəsi/       |
+| **disadvantages** | /ˌdɪsəd'væntɪdʒ/ |
+| boarding school   |                  |
+| **jogging**       | /'dʒɑgɪŋ/        |
+| exceed            | /ɪkˈsiːd/        |
+| brought           | /brɔt/           |
+
+  
+
+
+
 
 
 
