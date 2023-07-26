@@ -182,7 +182,18 @@ it has the power to make the world a more reasonable place.
 
 
 
+1. How can critical thinking help us make better decisions in our daily lives?
+2. Have you personally used critical thinking in your decision-making process? Can you share an example?
+3. What are some common biases and manipulations we should be aware of when making decisions?
+4. In what situations do you think critical thinking is most beneficial, and when might it be challenging to apply?
+5. How do you formulate clear questions when facing complex decisions with multiple factors to consider?
+6. When gathering information, how do you determine which sources are reliable and relevant to your decision-making process?
+7. Can you provide some examples of critical questions to ask when evaluating information or arguments?
+8. Have you ever experienced a situation where your initial decision had unintended consequences? How did critical thinking help you avoid or mitigate them?
+9. How do you balance exploring other points of view while still maintaining your own perspective during decision-making?
+10. In what ways can we encourage more people to adopt critical thinking as a tool for making better decisions collectively?
 
 
 
+question by ChatGPT
 
