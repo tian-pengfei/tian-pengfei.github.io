@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tiandy's Journey: From China to Japan
+title: Tiandy's Journey From China to Japan
 description: a english material from ChatGPT
 img: assets/img/prof_pic.jpg
 importance: 1
