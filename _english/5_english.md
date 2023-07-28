@@ -6,11 +6,6 @@ img: assets/img/2.jpg
 importance: 1
 category: [language]
 ---
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://player.bilibili.com/player.html?aid=743780659&bvid=BV1Ck4y1G7N5&cid=1208728387&page=1" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 
 
