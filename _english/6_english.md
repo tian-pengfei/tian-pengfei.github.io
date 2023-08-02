@@ -24,12 +24,11 @@ category: [language]
 | -------------- | ------------------------------------------------------------ |
 | maternal       | `[ /məˈtɜːrnl/]` A maternal relative is one who is related through a person's mother rather than their father<br />`Her maternal grandfather was Mayor of Karachi.` |
 | superintendent | `/ˌsuːpərɪnˈtendənt/` ；1.A superintendent is a person whose job is to look after a large building such as a school or a block of flats and deal with small repairs to it<br /><br />2.A superintendent is a person who is responsible for a particular thing or the work done in a particular department.<br />`He became superintendent of the bank's East African branches.` |
-| condemn        | `/kənˈdem/`  If authorities condemn a building, they officially decide that it is not safe and must be pulled down or repaired. <br />State officials said the court's ruling clears the way for proceedings to condemn buildings in the area. |
-| brand-new      | `/ˈbrændˈnu/ `  A brand-new object is completely new.<br />Yesterday he went off to buy himself a brand-new car. |
-| relocate       | `/ˌri'loket/`If people or businesses relocate or if someone relocates them, they move to a different place.<br />If the company was to relocate, most employees would move... |
-| smash          | `/smæʃ/` If you smash something or if it smashes, it breaks into many pieces, for example when it is hit or dropped. <br />Someone smashed a bottle<br />Two or three glasses fell off and smashed into pieces. |
-| destruction    | /dɪˈstrʌkʃn/ Destruction is the act of destroying something, or the state of being destroyed.<br />an international agreement aimed at halting the destruction of the ozone layer. |
-|                |                                                              |
+| condemn        | `/kənˈdem/`  If authorities condemn a building, they officially decide that it is not safe and must be pulled down or repaired. <br />`State officials said the court's ruling clears the way for proceedings to condemn buildings in the area.` |
+| brand-new      | `/ˈbrændˈnu/ `  A brand-new object is completely new.<br />`Yesterday he went off to buy himself a brand-new car.` |
+| relocate       | `/ˌri'loket/`If people or businesses relocate or if someone relocates them, they move to a different place.<br />`If the company was to relocate, most employees would move...` |
+| smash          | `/smæʃ/` If you smash something or if it smashes, it breaks into many pieces, for example when it is hit or dropped. <br />`Someone smashed a bottle`<br />`Two or three glasses fell off and smashed into pieces.` |
+| destruction    | /dɪˈstrʌkʃn/ Destruction is the act of destroying something, or the state of being destroyed.<br />`an international agreement aimed at halting the destruction of the ozone layer.` |
 |                |                                                              |
 
 
