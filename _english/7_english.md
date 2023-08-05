@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sundays at Rocco's
-description: a english material from StoryCorps
+title: Tiandy's Party Success!
+description: a english material from ChatGpt
 img: assets/img/lang_learn/english/english_007.jpg
 importance: 1
 category: [language]
