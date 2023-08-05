@@ -36,7 +36,21 @@ Tiandy felt inspired by her words and decided to ask for her advice on organizin
 ---
 
 With a newfound enthusiasm, Tiandy began spreading the word about his party. He put up colorful posters around the neighborhood, announcing the date, time, and location. Tiandy's excitement was contagious, and soon, many people expressed their interest in attending the gathering.
-As the day of the party approached, Tiandy had to relocate the event to a nearby park to accommodate 
+As the day of the party approached, Tiandy had to relocate the event to a nearby park to accommodate everyone. He was a bit nervous about hosting such a big gathering, but with the support of Mrs. Wang and his new friends, he knew everything would go smoothly.
+
+Finally, the day of the party arrived. The park was adorned with decorations, and Mrs. Wang's delicious treats were laid out on a picnic table. Tiandy's heart swelled with happiness as he saw people from all walks of life gathering around, eager to meet new friends.
+
+The party was a smashing success! Tiandy's friendly and approachable nature helped break the ice, and soon everyone was chatting and laughing together. They played games, shared stories, and formed new connections.
+
+---
+
+Among the attendees was a shy woman named Lily, who had just moved to Beijing. She had been feeling a bit lost in the big city, but Tiandy's party helped her feel welcome and at home. She thanked Tiandy for organizing such a wonderful event.
+
+"I'm so glad you could join us, Lily. Now, you're part of our circle of friends," Tiandy said warmly.
+
+From that day on, Tiandy's circle of friends grew bigger and stronger. He became known as the friendly man from Beijing who threw the best parties in town. But more importantly, he learned that by putting himself out there and being kind to others, he could make a positive impact on people's lives.
+
+And so, Tiandy's story is a reminder that even the simplest acts of kindness can lead to beautiful connections and bring happiness to many hearts. From that day forward, Tiandy and his friends held many more parties together, making lasting memories and sharing the joy of true friendship.
 
 ## Discussion
 
