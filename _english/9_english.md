@@ -20,9 +20,32 @@ category: [language]
 
 
 
+## vocabulary
 
 
-## Discussion Questions
+
+|                   |                                                              |
+| ----------------- | ------------------------------------------------------------ |
+| species           | `/ˈspiːʃiːz/` A species is a class of plants or animals whose members have the same main characteristics and are able to breed with each other.<br />`Pandas are an endangered species` |
+| reflect           | `[/rɪˈflekt/]` When you reflect on something, you think deeply about it. <br />`I reflected on the child's future.` |
+| ruminate          | `[/ˈruːmɪneɪt/]` If you ruminate on something, you think about it very carefully.<br />`He ruminated on the terrible wastage that typified American life...` |
+| **catastrophize** | `/kəˈtæstrəfaɪz/`<br />`When that internal monologue starts and we catastrophize and we start to get that tunnel vision.` |
+| possess           | `/pəˈzes/` If you possess something, you have it or own it.<br />`He is said to possess a fortune of more than two-and-a-half-thousand million dollars.` |
+| simulate          | `[/ˈsɪmjuleɪt/]`If you simulate an action or a feeling, you pretend that you are doing it or feeling it<br />`He performed a simulated striptease.` |
+| presentation      | `[/ˌpriːzenˈteɪʃn/]`When someone gives a presentation, they give a formal talk, often in order to sell something or get support for a proposal.<br />`I always ask how much time I have to make my presentation.` |
+| narrative         | `[/ˈnærətɪv/]` A narrative is a story or an account of a series of events.<br /> |
+| identity          | `[/aɪˈdentəti/]` Your identity is who you are<br />`Abu is not his real name, but it's one he uses to disguise his identity` |
+| sink              | `[ /sɪŋk/]` If a boat sinks or if someone or something sinks it, it disappears below the surface of a mass of water. <br />`The boat was beginning to sink fast` |
+| friction          | `/ˈfrɪkʃn/` If there is friction between people, there is disagreement and argument between them<br />`Sara sensed that there had been friction between her children` |
+| irritable         | `[/ˈɪrɪtəbl/]`If you are irritable, you are easily annoyed<br />`He had been waiting for over an hour and was beginning to feel irritable.` |
+| aggression        | [ /əˈɡreʃn/](cmd://Speak/_us_/aggression) Aggression is a quality of anger and determination that makes you ready to attack other people. |
+| severe            | `[/sɪˈvɪr/]` You use severe to indicate that something bad or undesirable is great or intense.<br />`I suffered from severe bouts of depression...` |
+| ritual            | `[/ˈrɪtʃuəl/]` A ritual is a religious service or other ceremony which involves a series of actions performed in a fixed order.<br /> |
+|                   |                                                              |
+
+
+
+## Article
 
 \- I think chatter is one of the big problems
 
@@ -38,7 +61,7 @@ We're talking to ourselves.
 
 Your inner voice is your ability to silently use language
 
-to reflect on your life.
+to con your life.
 
 Chatter refers to the dark side of the inner voice.
 
@@ -53,6 +76,8 @@ We get stuck in a negative cycle that takes
 this remarkable tool that we possess, this inner voice,
 
 and it turns it into a curse rather than a blessing.
+
+---
 
 My name's Ethan Kross,
 
@@ -91,6 +116,8 @@ It's a basic feature of the human mind that helps us
 keep verbal information active in our heads.
 
 Our inner voice also lets us simulate and plan.
+
+---
 
 So before a big presentation, I'll go over in my head
 
@@ -133,6 +160,8 @@ So sometimes this inner voice can be
 an incredible source of help, but at other times
 
 it can really sink us.
+
+---
 
 First, it makes it incredibly hard for us to focus.
 
@@ -182,6 +211,8 @@ It's hard to overstate how negative the implications
 
 of chatter can be.
 
+---
+
 The good news is there is a science-based toolkit
 
 that you can use to regain control of your inner voice.
@@ -202,13 +233,13 @@ like your thoughts are in control of you.
 
 One of the things that we've learned through science
 
-is that we can compensate for this feeling out of control
+is that we can **compensate** for this feeling out of control
 
 by creating order around us- rituals are one way to do that.
 
-A ritual is an ordered sequence
+A ritual is an ordered **sequence**
 
-of behaviors that you rigidly perform the same way each time
+of behaviors that you **rigidly** perform the same way each time
 
 by engaging the same sequence
 
@@ -217,6 +248,8 @@ of behaviors every time the same way.
 That's giving you a sense of order and control.
 
 That can feel really good when you're mired in chatter.
+
+---
 
 The tennis great, Rafael Nadal,
 
@@ -234,11 +267,11 @@ Then he takes a sip out of another.
 
 Then he puts each water bottle back exactly
 
-where he picked them up from on a diagonal to the court.
+where he picked them up from on a **diagonal** to the court.
 
 It's a ritual he does to manage his chatter.
 
-There are no individual tools that work for all people
+There are no **individual** tools that work for all people
 
 in all situations to help manage your chatter.
 
