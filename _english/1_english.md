@@ -16,6 +16,26 @@ category: [language,english]
 </div>
 > Joshua Littman, a 12-year-old boy with Asperger's syndrome, interviews his mother, Sarah. Joshua's unique questions and Sarah's loving, unguarded answers reveal a beautiful relationship that reminds us of the best—and the most challenging—parts of being a parent. 
 
+
+
+## Vocabulary
+
+|               |                                                              |
+| ------------- | ------------------------------------------------------------ |
+| scale         | `[ /skeɪl/]` A scale is a set of levels or numbers which are used in a particular system of measuring things or are used when comparing things. <br />`The higher up the social scale they are, the more the men have to lose.` |
+| venomous      | `[ /ˈvenəməs/] ` A venomous snake, spider, or other creature uses poison to attack other creatures.<br />`The adder is Britain's only venomous snake.` |
+| constrict     | `[ /kənˈstrɪkt/]` If a part of your body, especially your throat, is constricted or if it constricts, something causes it to become narrower<br />`My throat constricted, so that I had to concentrate on breathing.` |
+| perceptive    | `[ /pərˈseptɪv/]` If you describe a person or their remarks or thoughts as perceptive, you think that they are good at noticing or realizing things, especially things that are not obvious. <br />`He was one of the most perceptive US political commentators.` |
+| mortal        | `[/ˈmɔːrtl/]`You can use mortal to show that something is very serious or may cause death. <br />`The police were defending themselves and others against mortal danger` |
+| cope          | `[/koʊp/]`If you cope with a problem or task, you deal with it successfully<br />`The problems were an annoyance, but we managed to cope.` |
+| syndrome      | `[/ˈsɪndroʊm/]`  A syndrome is a medical condition that is characterized by a particular group of signs and symptoms.<br />`The syndrome is more likely to strike those whose immune systems are already below par.` |
+| fantasy       | `[/ˈfæntəsi/]` A fantasy is a pleasant situation or event that you think about and that you want to happen, especially one that is unlikely to happen.<br />`fantasies of romance and true love.` |
+| disadvantages | A disadvantage is a factor which makes someone or something less useful, acceptable, or successful than other people or things.<br />`the advantages and disadvantages of allowing priests to marry.` |
+
+
+
+
+
 ## Dialogue
 
 From a scale of 1 to 10, do you think

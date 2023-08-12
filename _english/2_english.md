@@ -18,6 +18,26 @@ category: [language]
 
 
 
+## Vocabulary
+
+
+
+|           |                                                              |
+| --------- | ------------------------------------------------------------ |
+| aspire    | `[ /əˈspaɪər/ ]` If you aspire to something such as an important job, you have a strong desire to achieve it. <br />`They aspired to be gentlemen, though they fell far short of the ideal.` |
+| minimal   | `[ /ˈmɪnɪməl/]` Something that is minimal is very small in quantity, value, or degree.<br />`The damage to the car was minimal.` |
+| vehicle   | `[/ˈviːəkl/]` A vehicle is a machine such as a car, bus, or truck which has an engine and is used to carry people from place to place.<br />`The vehicle would not have the capacity to make the journey on one tank of fuel.` |
+| volcano   | `[/vɑːlˈkeɪnoʊ/]`A volcano is a mountain from which hot melted rock, gas, steam, and ash from inside the earth sometimes burst.<br />`Etna is Europe's most active volcano.` |
+| dinosaurs | `[/ˈdaɪnəsɔːr/]` If you say that something is neat, you mean that it is very good.<br />`He thought Mick was a really neat guy.` |
+| devour    | `[ /dɪˈvaʊər/]` If you devour a book or magazine, for example, you read it quickly and with great enthusiasm. <br />She began devouring newspapers when she was only 12. |
+| camp      | `[/kæmp/]`                                                   |
+
+
+
+
+
+
+
 ## Read Story
 
 Storm Reyes: The conditions were pretty terrible.
