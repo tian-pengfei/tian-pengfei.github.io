@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What to do if your inner voice is cruel 
+title: The Legless, One-Armed Bodybuilder
 description: a english material from Great Big Story
 img: assets/img/lang_learn/english/english_010.jpg
 importance: 1
@@ -66,6 +66,8 @@ why was I born like this?
 
 Had suicidal thoughts.
 
+---
+
 Wrestling started me on, you
 know, the answer to why.
 
@@ -124,6 +126,8 @@ especially if I can do it.
 My life revolves around, you know,
 
 eating and training and posting.
+
+---
 
 (camera flashes)
 
