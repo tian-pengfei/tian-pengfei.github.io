@@ -16,8 +16,7 @@ category: [language]
 </div>
 
 
-> Your inner voice isn't always very nice or helpful. When we turn our attention inward, we tend to focus on problems rather than solutions. This causes us to worry, ruminate, and catastrophize, which traps us in a negative thought cycle.  The good news is that there is a science-based toolkit that can help you regain control of your inner voice.
-
+> In many ways, Nick Santonastasso is like any other 20-year-old: he’s youthful, full of life, and loves to be fit and active. But spend even a little time with him and you’ll realize how extraordinary he is. Santonastasso was born with Hanhart Syndrome, a rare genetic condition that manifests itself with either unformed organs or limbs. Brimming with a drive and determination that inspires others, nothing has stopped him from chasing his dream of being a fitness model and bodybuilder.
 
 
 ## vocabulary
