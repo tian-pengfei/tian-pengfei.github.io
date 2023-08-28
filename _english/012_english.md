@@ -10,11 +10,8 @@ category: [language]
 
 
 
-```html
-<iframe src="https://www.npr.org/player/embed/1142628174/1142909905" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
-```
 
-
+{% include audio.html path="https://www.npr.org/player/embed/1142628174/1142909905" controls=true %}
 
 
 ## vocabulary
