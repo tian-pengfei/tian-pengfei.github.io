@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dear Life Kit: We bought a dog instead of rescuing one. It cost me a friend
+title: Dear Life Kit ： We bought a dog instead of rescuing one. It cost me a friend
 description: a english material from Dear Life Kit
 img: assets/img/lang_learn/english/english_012.jpg
 importance: 1
