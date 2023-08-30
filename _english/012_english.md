@@ -42,6 +42,8 @@ Dear LIFE KIT, last year, our family lost our beloved dog to old age. It took us
 
 OK, Tania, there is a lot in there. Before we get into your advice, I would love just your initial thoughts, feelings, your first reaction to hearing this story.
 
+---
+
 ISRAEL: My first reaction is, oh, my goodness. It's so hard when people are having these conflicts with friends and they're trying to support family members and they feel caught in the middle of all of these different people who have needs and feelings. And so I really just feel this person's distress.
 
 TAGLE: Oh, yeah, just caught in the middle and trying to do right by everybody is never easy and not always possible. You know, what was really interesting to me about this question, Tania, is that it's really less about dogs and more about the lines we draw between our friends and our principles, right? So I know this is your exact wheelhouse. Tell me, is it possible to have a relationship with someone who does something or believes in something we're fundamentally opposed to?
