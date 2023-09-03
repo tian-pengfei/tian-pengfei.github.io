@@ -16,6 +16,41 @@ category: [language]
 
 > Every day, a sea of decisions stretches before us, and it’s impossible to make a perfect choice every time. But there are many ways to improve our chances — and one particularly effective technique is critical thinking. Samantha Agoos describes a 5-step process that may help you with any number of problems. 
 
+## Vocabulary
+
+|                |                                                              |
+| -------------- | ------------------------------------------------------------ |
+| stretch        | `[/stretʃ/]` Something that stretches over an area or distance covers or exists in the whole of that area or distance. |
+| **bombard**    | `[/bɑm'bɑrd/]` If you bombard someone with something, you make them face a great deal of it. For example, if you bombard them with questions or criticism, you keep asking them a lot of questions or you keep criticizing them. |
+| deconstruct    | `[/'dikən'strʌkt/]`                                          |
+| reveal         | `[/rɪˈviːl/]`  If you reveal something that has been out of sight, you uncover it so that people can see it. |
+| bias           |                                                              |
+| manipulation   |                                                              |
+| negative       |                                                              |
+| scrutiny       |                                                              |
+| skepticism     |                                                              |
+| disposal       |                                                              |
+| eliminate      |                                                              |
+| reliable       |                                                              |
+| formulate      |                                                              |
+| obscure        |                                                              |
+| nutrition      |                                                              |
+| sift           |                                                              |
+| relevant       |                                                              |
+| assumption     |                                                              |
+| interpretation |                                                              |
+| candidate      |                                                              |
+| gasoline       |                                                              |
+| surge          |                                                              |
+| be drawn to    |                                                              |
+| spectrum       |                                                              |
+| valid          |                                                              |
+| alternative    |                                                              |
+| eradicate      |                                                              |
+|                |                                                              |
+
+
+
 
 
 ## Read Story

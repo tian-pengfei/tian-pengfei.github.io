@@ -15,6 +15,52 @@ category: [language]
 
 
 
+## Vocabulary
+
+|                   |      |
+| ----------------- | ---- |
+| cheerful          |      |
+| brand-new         |      |
+| cushion           |      |
+| bench             |      |
+| cozy              |      |
+| exclaim           |      |
+| brainstorm        |      |
+| nearby            |      |
+| bakery            |      |
+| sugar rush        |      |
+| delightful        |      |
+| sweet             |      |
+| fantastic         |      |
+| bake              |      |
+| bakery            |      |
+| newfound          |      |
+| enthusiasm        |      |
+| spread            |      |
+| contagious        |      |
+| relocate          |      |
+| accommodate       |      |
+| smoothly          |      |
+| adorn             |      |
+| decoration        |      |
+| picnic            |      |
+| lay  laid         |      |
+| lie               |      |
+| swell             |      |
+| all walks of life |      |
+| eager             |      |
+| smashing          |      |
+| smashing          |      |
+| attendee          |      |
+| reminder          |      |
+| kindness          |      |
+| lasting           |      |
+| joy               |      |
+
+
+
+
+
 
 
 

@@ -20,6 +20,40 @@ category: [language]
 > Write it using beginner English using all of these words: 
 > Law. Saw, all, Caught, Walk, Talk, taught, cause, Small, Off, Loss, Dog, Long, Coffee, Boss, Box, Often, Job, Hot, Top, Rock, Soft,  Lock, Drop, Lot, loss, Got, raw, tall, fall, mall, call, August, Australia, author automatic, audience, authority, audio, straw, jaw, flaw, cough, thought, bought, fought, claw,
 
+
+
+## Vocabulary
+
+
+
+|                |      |
+| -------------- | ---- |
+| have a blast   |      |
+| give it a try  |      |
+| glide          |      |
+| promotion      |      |
+| climb          |      |
+| breathtaking   |      |
+| adopt          |      |
+| shelter        |      |
+| pup            |      |
+| occur          |      |
+| atmosphere     |      |
+| raw            |      |
+| disheartened   |      |
+| colleague      |      |
+| sought         |      |
+| authority      |      |
+| August         |      |
+| roller coaster |      |
+| embrace        |      |
+| perseverance   |      |
+|                |      |
+
+
+
+
+
 ## Read Story
 
 

@@ -17,6 +17,41 @@ category: [language]
 > Question for chatGPT
 > Write the shortest and easy story, Write it using beginner English using all of these words:stretches ,millionaire ,We’re bombarded ,deconstruct ,situation ,manipulation ,critical ,scrutiny ,skepticism,relevant ,testimonies ,goal ,implications ,political ,candidate ,purpose ,ultimately .
 
+
+
+## Vocabulary
+
+|                  |      |
+| ---------------- | ---- |
+| Once upon a time |      |
+| aspiration       |      |
+| implication      |      |
+| relevance        |      |
+| testimony        |      |
+| transparent      |      |
+| opponent         |      |
+| manipulation     |      |
+| discredit        |      |
+| steadfast        |      |
+| ultimately       |      |
+| serve            |      |
+| Despite          |      |
+| negative         |      |
+| stereotype       |      |
+| showcase         |      |
+| propose          |      |
+| traction         |      |
+| criticism        |      |
+| persevere        |      |
+| willingness      |      |
+| sincerity        |      |
+
+
+
+
+
+
+
 ## Read Story
 
 Once upon a time, there was a millionaire named Mr. Smith. He had a critical goal to deconstruct the situation in his city and become a political candidate. Mr. Smith knew that he would be bombarded with skepticism and scrutiny, but he had a purpose in mind.
