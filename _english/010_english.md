@@ -21,7 +21,22 @@ category: [language]
 
 ## vocabulary
 
-
+|             |      |
+| ----------- | ---- |
+| syndrome    |      |
+| disorder    |      |
+| limbs       |      |
+| affect      |      |
+| suicidal    |      |
+| wrestle     |      |
+| ovation     |      |
+| competitive |      |
+| cheer on    |      |
+| break into  |      |
+| six pack    |      |
+| revolve     |      |
+| motivate    |      |
+| amputate    |      |
 
 
 

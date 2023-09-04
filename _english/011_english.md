@@ -22,7 +22,64 @@ category: [language]
 
 ## vocabulary
 
-
+|                |      |
+| -------------- | ---- |
+| reasonably     |      |
+| suspect        |      |
+| poetry         |      |
+| television     |      |
+| harmonium      |      |
+| intelligentsia |      |
+| spouse         |      |
+| boob tube      |      |
+| screw up       |      |
+| liberate       |      |
+| extremely      |      |
+| unreliable     |      |
+| critic         |      |
+| funeral        |      |
+| desperate      |      |
+| inverse        |      |
+| explode        |      |
+| luxury         |      |
+| sustenance     |      |
+| manifest       |      |
+| aurora         |      |
+| rippling       |      |
+| canyon         |      |
+| sundown        |      |
+| butterfly      |      |
+| thrive         |      |
+| rub            |      |
+| reveal         |      |
+| expand         |      |
+| theatre        |      |
+| priest         |      |
+| sinner         |      |
+| deathbed       |      |
+| biography      |      |
+| costume        |      |
+| paragraph      |      |
+| Cotton         |      |
+| quilt          |      |
+| blazing        |      |
+| military       |      |
+| sword          |      |
+| crossbow       |      |
+| arrow          |      |
+| colonel        |      |
+| beret          |      |
+| combat         |      |
+| sail           |      |
+| camp           |      |
+| fallen         |      |
+| sandcastle     |      |
+| individuality  |      |
+| vital          |      |
+| dialogue       |      |
+| witness        |      |
+| guarantee      |      |
+| foolish        |      |
 
 
 
