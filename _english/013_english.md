@@ -489,6 +489,8 @@ while Emma's defining decade
 
 went parading by.
 
+---
+
 So over the next weeks and months,
 
 I told Emma three things
@@ -629,6 +631,8 @@ rather than just making it work
 or killing time
 
 with whoever happens to be choosing you.
+
+---
 
 So what happened to Emma?
 
