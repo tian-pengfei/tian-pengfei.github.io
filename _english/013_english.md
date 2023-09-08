@@ -143,6 +143,8 @@ without going through their 20s first.
 
 (Laughter)
 
+---
+
 Raise your hand if you're in your 20s.
 
 I really want to see
@@ -264,6 +266,8 @@ of adult development.
 
 But this isn't what
 twentysomethings are hearing.
+
+---
 
 Newspapers talk about the changing
 timetable of adulthood.
@@ -403,6 +407,8 @@ and say about their 20s,
 
 I want to change what twentysomethings
 are doing and thinking.
+
+---
 
 Here's a story about how that can go.
 
