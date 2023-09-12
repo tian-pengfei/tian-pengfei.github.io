@@ -22,6 +22,75 @@ category: [language]
 
 
 
+|                 |      |
+| --------------- | ---- |
+| psychotherapy   |      |
+| psychology      |      |
+| slouchy         |      |
+| couch           |      |
+| flat            |      |
+| relieve         |      |
+| arsonist        |      |
+| nod             |      |
+| supervisor      |      |
+| knucklehead     |      |
+| downtime        |      |
+| benign          |      |
+| neglect         |      |
+| population      |      |
+| adulthood       |      |
+| specialize      |      |
+| sociologist     |      |
+| neurologist     |      |
+| fertility       |      |
+| transformative  |      |
+| opinion         |      |
+| defining moment |      |
+| take place      |      |
+| panic           |      |
+| crowd           |      |
+| exponential     |      |
+| spurt           |      |
+| rewire          |      |
+| tricky          |      |
+| attachment      |      |
+| ordinary        |      |
+| timetable       |      |
+| adolescence     |      |
+| extended        |      |
+| coin            |      |
+| trivialize      |      |
+| rob             |      |
+| urgency         |      |
+| ambition        |      |
+| flip            |      |
+| stake           |      |
+| enormous        |      |
+| incompatible    |      |
+| entertainment   |      |
+| temper          |      |
+| hysterical      |      |
+| wreck           |      |
+| therapist       |      |
+| parade          |      |
+| beget           |      |
+| internship      |      |
+| startup         |      |
+| exploration     |      |
+| procrastination |      |
+| urban           |      |
+| tribe           |      |
+| overrate        |      |
+| intentional     |      |
+| consciously     |      |
+| museum          |      |
+| is bound for    |      |
+| enormous        |      |
+| privilege       |      |
+| claim           |      |
+
+
+
 ## Article
 
 When I was in my 20s,
