@@ -2,7 +2,7 @@
 layout: page
 title: Topic Discussion- Weddings
 description: Topic Discussion
-img: assets/img/lang_learn/english/english_014.jpg
+img: assets/img/lang_learn/english/english_014.png
 importance: 1
 category: [language]
 ---
@@ -13,7 +13,7 @@ category: [language]
 
 ## Article 	
 
-![image-20230916223717185](image/english_014.png)
+![image-20230916225843249](https://qnm.hunliji.com/FjcsmamujV8nVnVwPDzBuZEw1nhD?imageView2/2/w/720)
 
 <img src="https://p2.cri.cn/M00/0D/54/CqgNOlyZ8FCAPRrGAAAAAAAAAAA54.528x309.jpeg" alt="四川这场传统婚礼打动了99%的中国人"  />
 
