@@ -9,7 +9,41 @@ category: [language]
 
 
 
-> 
+|                  |      |
+| ---------------- | ---- |
+| correspondent    |      |
+| resilience       |      |
+| disasters        |      |
+| in the wake of   |      |
+| bouncing back    |      |
+| recover          |      |
+| Institute        |      |
+| Diversity        |      |
+| frantic          |      |
+| first responders |      |
+| evacuate         |      |
+| afterwards       |      |
+| Atlantic         |      |
+| record-breaking  |      |
+| preparedness     |      |
+| vulnerabilities  |      |
+| transportation   |      |
+| access           |      |
+| coastal          |      |
+| areas            |      |
+| meteorologists.  |      |
+| authorities.     |      |
+| particularly     |      |
+| treacherous      |      |
+| life raft        |      |
+| cruise ship      |      |
+| deem             |      |
+| fuel             |      |
+|                  |      |
+|                  |      |
+|                  |      |
+
+
 
 ## Article 	
 
@@ -24,6 +58,10 @@ This is NPR's LIFE KIT. I'm Debbie Elliott. As a national correspondent for NPR 
 CHAUNCIA WILLIS: Resilience is all about bouncing back, having the ability to be prepared before disaster strikes and then recovering from it in the shortest amount of time possible.
 
 ELLIOTT: That's Chauncia Willis in Tampa, Fla. She's been an emergency manager for over 20 years and is the co-founder and CEO of the Institute for Diversity and Inclusion in Emergency Management. Every natural disaster is different, but no matter where you are, emergency planners will tell you if you want to bounce back later, you have to prepare now. Waiting till the last minute or taking that it-won't-happen-to-me mindset could mean the difference between life and death.
+
+---
+
+
 
 Willis remembers working during a hurricane and getting a frantic phone call.
 
@@ -41,6 +79,10 @@ ELLIOTT: This episode of LIFE KIT, emergency preparedness - what you need to kno
 
 (SOUNDBITE OF MUSIC)
 
+---
+
+
+
 ELLIOTT: What is the first thing that people should think about should they be ordered to evacuate? How do you go about creating an evacuation plan?
 
 WILLIS: Really understand what your evacuation level is if you're in an evacuation zone, if you're in a flood zone. You always need to have a better idea of where you are and what your own vulnerabilities are. Some of the vulnerabilities might be having a health care issue, also not being able to have access to transportation. So it's something to think about, and that's especially for the coastal areas where there's usually - like, for example, in Key West, there's one way in, one way out, right? So you have to leave early. You can't wait. Things like that.
@@ -48,6 +90,10 @@ WILLIS: Really understand what your evacuation level is if you're in an evacuati
 ELLIOTT: So timing is important. What about, like, who do you listen to? What are the resources that you should be pulling in as you go about making your decision?
 
 WILLIS: When it comes to an evacuation, you have to pay attention to your local meteorologists. If they are saying that we believe that this is going to impact our area, then take that seriously. Even if you're not asked to leave and you see that there's a watch happening and then it moves into a warning and you know you're in a vulnerable situation, you should probably begin to make your way to a safe location.
+
+---
+
+
 
 ELLIOTT: Let's talk about the decision to evacuate. You've made your decision to evacuate. You've listened to local authorities. You think you need to get out. What do you do at that point? What do you need to be thinking about, and how do you decide where you're going to go?
 
@@ -60,6 +106,14 @@ WILLIS: Anything that would be deemed critical for your everyday not only surviv
 ELLIOTT: I've always heard you should have some sort of a checklist to make sure you have everything you need. What would you say should be on that list?
 
 WILLIS: Well, you know, it's important to have a checklist. And, you know, if you're evacuating in your own vehicle, you want to make sure that you have fuel for the vehicle as a need on that checklist. You also want to make sure you have at least two weeks' supply of medication or medical supplies that you use, such as insulin and the needles that go along with it. It's also important to have cash on hand because banks and ATMs may not be available after the storm has passed. I always recommend as well having bandages and soap and things like that thrown in there as well. And if you have access to a battery-operated radio, it's good to have that as well.
+
+---
+
+---
+
+---
+
+
 
 ELLIOTT: What about food and water?
 
@@ -141,43 +195,4 @@ This episode was produced by Andee Tagle. Meghan Keane is the managing producer,
 
 ## vocabulary
 
-
-
-|                |      |
-| -------------- | ---- |
-| household      |      |
-| hurricane      |      |
-| disaster       |      |
-| shortening     |      |
-| national       |      |
-| correspondent  |      |
-| flood          |      |
-| Haiti          |      |
-| earthquake     |      |
-| resilience     |      |
-| resiliency     |      |
-| bounce back    |      |
-| strike         |      |
-| recover        |      |
-| co-founder     |      |
-| mindset        |      |
-| frantic        |      |
-| frantic        |      |
-| afterwards     |      |
-| shelter        |      |
-| atlantic       |      |
-| preparedness   |      |
-| gray           |      |
-| vulnerability  |      |
-| transportation |      |
-| coastal        |      |
-| area           |      |
-| meteorologists |      |
-| vulnerable     |      |
-| treacherous    |      |
-| ideal          |      |
-| life raft      |      |
-| cruise ship    |      |
-| usage          |      |
-|                |      |
 
