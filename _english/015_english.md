@@ -39,8 +39,67 @@ category: [language]
 | cruise ship      |      |
 | deem             |      |
 | fuel             |      |
-|                  |      |
-|                  |      |
+| checklist        |      |
+| insulin          |      |
+| needle           |      |
+| on hand          |      |
+| storm            |      |
+| bandage          |      |
+| soap             |      |
+| nonperishable    |      |
+| perish           |      |
+| disinfectant     |      |
+| wipe             |      |
+| hand sanitizers  |      |
+| sanitize         |      |
+| face mask        |      |
+| stockpile        |      |
+| alternative      |      |
+| canned           |      |
+| compounding      |      |
+| wherewithal      |      |
+| purchase         |      |
+| prepper          |      |
+| mentality        |      |
+| perpetual        |      |
+| line up          |      |
+| assistance       |      |
+| overlook         |      |
+| lease            |      |
+| agreement        |      |
+| priority         |      |
+| funding          |      |
+| restoration      |      |
+| landlord         |      |
+| insurance        |      |
+| properly         |      |
+| coastal          |      |
+| coast            |      |
+| low-lying        |      |
+| prone            |      |
+| transportation   |      |
+| nationwide       |      |
+| partnership      |      |
+| scenario         |      |
+| threat           |      |
+| climate          |      |
+| rapid            |      |
+| damage           |      |
+| coronavirus      |      |
+| out sick         |      |
+| multiplied       |      |
+| pervasive        |      |
+| modify           |      |
+| configuration    |      |
+| aspect           |      |
+| crisis           |      |
+| standpoint       |      |
+| mitigate         |      |
+| outreach         |      |
+| representation   |      |
+| field            |      |
+| disabilities     |      |
+| intentional      |      |
 |                  |      |
 
 
@@ -133,6 +192,10 @@ If you're not able to prepare yourself and your family due to financial restrict
 
 It's about using and - being creative and using what you have on hand and what you have access to. And if you don't have access to it, then asking for assistance now instead of waiting until the sky is dark. So you want to do most of your planning and preparedness in blue skies. Don't wait until the skies are gray. Begin to think about what to do to survive right now.
 
+---
+
+
+
 (SOUNDBITE OF MUSIC)
 
 ELLIOTT: What do people tend to overlook when they're making their go plans?
@@ -144,6 +207,10 @@ Also, any insurance documentation - anything like that. And even before you're l
 ELLIOTT: You know, let's say I don't have a car. I live in a community that's, you know, a low-lying coastal area that's prone to flooding, and my emergency managers in my county are telling me to go. What do I do if I don't have a way to get out on my own?
 
 WILLIS: So when it comes to the transportation-challenged, one of the things that your government will do is find a way to provide transportation access for you. And that has been a nationwide effort. In times of disaster, the cities and counties will create a partnership with those bus lines to provide free transport. And this is a result, in large part, because of what we saw with Hurricane Katrina, where many people wanted to evacuate, they wanted to leave in advance, but they had no access to transportation.
+
+---
+
+
 
 ELLIOTT: What advice might you have for, say, when there's a family difference? Let's say there's a member of the family who is somebody who says, I'm not leaving; I'm staying with my house, and there's another family member who's trying to say, look; let's just - better be safe than sorry; we really need to evacuate?
 
@@ -164,6 +231,10 @@ WILLIS: You know, there's no part of our life that we don't have to consider the
 So it's very pervasive. And because of that, the shelters have had to modify their staffing, but also their configuration. So we require more space in each of these shelters. And, of course, that means that you have to have more shelter spaces now, so more shelters have to come up. Now you think about coronavirus plus a hurricane and consider how many shelters may be opened and how many people are needed to operate those shelters.
 
 So it significantly changes every aspect, and it just expands the need for additional space and additional assistance.
+
+----
+
+
 
 ELLIOTT: You know, I've covered dozens of disasters, and one thing that strikes me each time is how a crisis tends to expose the most vulnerable people in the community. What do you think can be done from a preparedness standpoint to mitigate those kinds of impacts?
 
@@ -194,5 +265,4 @@ This episode was produced by Andee Tagle. Meghan Keane is the managing producer,
 
 
 ## vocabulary
-
 
