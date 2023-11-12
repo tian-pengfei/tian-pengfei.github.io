@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get your household ready for the next hurricane
+title: I let algorithms randomize my life for two years
 description: life kit
 img: assets/img/lang_learn/english/english_016.jpg
 importance: 1
@@ -66,6 +66,8 @@ But how did the computer know about that?
 
 So that was a little disturbing.
 
+---
+
 And since I'm an engineer, whenever I have a problem like this, my instinct is to fix it, to make something that solves the problem.
 
 And so I decided to make an app that would help me choose where to go on this evening.
@@ -99,6 +101,8 @@ We showed up in front of this austere brick building with a wrought iron fence i
 But it was also exhilarating because here we were, in this place that we never would have gone to otherwise, doing something really different on a Friday night.
 
 (Laughter) And I was hooked, I started using this app to go to all different places in San Francisco.
+
+---
 
 I went to museums randomly, random grocery stores, random bars, random bowling alleys, random florists.
 
@@ -144,6 +148,8 @@ And I'd live there for two to three months and then ask the computer again for t
 
 I did this for two years.
 
+---
+
 Paradoxically, giving up control to this machine actually made me feel more free than when I was making choices, because I discovered that ...
 
 My preference had blinded me from the complexity and the richness of the world.
@@ -175,6 +181,8 @@ And if you think about it, every time you make a choice, you're not just making 
 You're selecting from a list, a menu of choices that was designed by someone or something else.
 
 And whatever freedom that you have in that choice is necessarily constrained by social structures, customs and history that provide the context for that selection.
+
+---
 
 So initially, I thought of this as a way of getting outside of my bubble.
 
