@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Tiandy's Struggle
-description: life kit
-img: assets/img/lang_learn/english/english_017.jpg
+description: 
+img: assets/img/lang_learn/english/english_018.jpg
 importance: 1
 category: [language]
 
 ---
-
 
 
 <iframe src="//player.bilibili.com/player.html?aid=880319774&bvid=BV1rN4y1s7X6&cid=1380866241&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
