@@ -22,7 +22,7 @@ So, you know -- (Laughter) you get started maybe a little slowly, but you get en
 
 That would be the plan.
 
-I would have it all ready to go, but then, actually, the paper would come along, and then I would kind of do this.![img](image/af80b55b-97af-4fec-ae86-f15dd7362d9a-1700832316875-3.jpg)
+I would have it all ready to go, but then, actually, the paper would come along, and then I would kind of do this
 
 (Laughter) And that would happen every single paper.
 
@@ -53,6 +53,8 @@ So we had an awesome new revised plan.
 (Laughter) And then -- (Laughter) But then those middle months actually went by, and I didn't really write words, and so we were here.
 
 And then two months turned into one month, which turned into two weeks.
+
+---
 
 And one day I woke up with three days until the deadline, still not having written a word, and so I did the only thing I could: I wrote 90 pages over 72 hours, pulling not one but two all-nighters -- humans are not supposed to pull two all-nighters -- sprinted across campus, dove in slow motion, and got it in just at the deadline.
 
@@ -126,6 +128,8 @@ He has no memory of the past, no knowledge of the future, and he only cares abou
 
 Now, in the animal world, that works fine.
 
+---
+
 If you're a dog and you spend your whole life doing nothing other than easy and fun things, you're a huge success!
 
 (Laughter) And to the Monkey, humans are just another animal species.
@@ -179,6 +183,8 @@ And importantly, he's the only thing the Monkey is terrified of.
 Now, he became very relevant in my life pretty recently, because the people of TED reached out to me about six months ago and invited me to do a TED Talk.
 
 (Laughter) Now, of course, I said yes.
+
+---
 
 It's always been a dream of mine to have done a TED Talk in the past.
 
