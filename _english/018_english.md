@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Tim Urban_ Inside the mind of a master procrastinator _ TED 
+title: The world is a chessboard 
 description: fltrp cup
 img: assets/img/lang_learn/english/english_018.jpg
 importance: 1
 category: [language]
-
 ---
 
 <iframe src="//player.bilibili.com/player.html?aid=81790696&bvid=BV1VJ411j7Xe&cid=139944856&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
