@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The world is a chessboard 
+title: Steve Jobs' 2005 Stanford Commencement Address
 description: fltrp cup
 img: assets/img/lang_learn/english/english_019.jpg
 importance: 1
