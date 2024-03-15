@@ -127,3 +127,105 @@ Because believing that the dots will connect down the road will give you the con
 
 
 
+----
+
+---
+
+My second story is about love and loss.
+
+I was lucky. I found what I loved to do early in life.
+
+Woz and I started Apple in my parents' garage when I was twenty.
+
+We worked hard and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.
+
+We'd just released our finest creation the Macintosh, a year earlier, and I'd just turned thirty, and then I got fired.
+
+How can you get fired from a company you started?
+
+Well, as Apple grew, we hired someone who I thought was very talented to run the company with me.
+
+And for the first year or so, things went well.
+
+But then our visions of the future began to diverge, and eventually we had a falling out.
+
+When we did, our board of directors sided with him.
+
+And so at thirty, I was out, and very publicly out.
+
+What had been the focus of my entire adult life was gone, and it was devastating.
+
+I really didn't know what to do for a few months.
+
+I felt that I had let the previous generation of entrepreneurs down, that I had dropped the baton as it was being passed to me.
+
+I met with David Packard and Bob Noyce and tried to apologize for screwing up so badly.
+
+I was a very public failure and I even thought about running away from the Valley.
+
+But something slowly began to dawn on me. I still loved what I did.
+
+The turn of events at Apple had not changed that one bit.
+
+I'd been rejected but I was still in love. And so I decided to start over.
+
+I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me.
+
+
+
+The heaviness of being successful was replaced by the lightness of being a beginner again.
+
+Less sure about everything. It freed me to enter one of the most creative periods in my life.
+
+During the next five years I started a company named NeXT, another company named Pixar and fell in love with an amazing woman who would become my wife.
+
+Pixar went on to create the world's first computer-animated feature film " Toy Story" , and is now the most successful animation studio in the world.
+
+In a remarkable turn of events. Apple bought NeXT and I returned to Apple.
+
+And the technology we developed at NeXT is at the heart of Apple's current renaissance.
+
+And Lorene and I have a wonderful family together.
+
+I'm pretty sure none of this would have happened if I hadn't been fired from Apple.
+
+It was awful-tasting medicine but I guess the patient needed it.
+
+Sometimes life's going to hit you in the head with a brick. Don't lose faith.
+
+I'm convinced that the only thing that kept me going was that I loved what I did.
+
+You've got to find what you love, and that is as true for work as it is for your lovers.
+
+Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work, and the only way to do great work is to love what you do. 
+
+If you haven't found it yet, keep looking, and don't settle.
+
+As with all matters of the heart, you'll know when you find it. and like any great relationship it just gets better and better as the years roll on.
+
+So keep looking. Don't settle.
+
+---
+
+
+
+**Use the following words to make a sentence**
+
+|                     |
+| ------------------- |
+| garage              |
+| vision              |
+| diverge             |
+| board of directors  |
+| eventually          |
+| entrepreneurs       |
+| devastate           |
+| previous generation |
+| screwing up         |
+| feature             |
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
+
