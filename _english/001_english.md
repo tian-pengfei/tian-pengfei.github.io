@@ -238,7 +238,11 @@ and I'm so lucky to have you as my son.
 
 
 
-## Vocabulary
+## Create sentences
+
+"Please create sentences using the following words, and ask your tutor to check if their usage is correct."
+
+
 
 |                   |                  |
 | ----------------- | ---------------- |
