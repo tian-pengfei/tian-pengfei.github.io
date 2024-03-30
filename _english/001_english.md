@@ -208,36 +208,6 @@ and I'm so lucky to have you as my son.
 
 
 
-## Discussion
-
-
-
-1. What was the most memorable thing from your childhood?
-
-
-
-2. How was your relationship with your parents during your childhood?
-
-
-
-3. Have you ever felt like life is hopeless?
-
-    
-
-4. What did you often do during your childhood?
-
-    
-
-5. What are the best things about being an adult?
-
-    
-
-6. What are the best things about being an adult?
-
-
-
-
-
 ## Create sentences
 
 "Please create sentences using the following words, and ask your tutor to check if their usage is correct."
@@ -266,7 +236,31 @@ and I'm so lucky to have you as my son.
 
 
 
+## Discussion
 
+
+
+1. What was the most memorable thing from your childhood?
+
+
+
+2. How was your relationship with your parents during your childhood?
+
+
+
+3. Have you ever felt like life is hopeless?
+
+    
+
+4. What did you often do during your childhood?
+
+    
+
+5. What are the best things about being an adult?
+
+    
+
+6. What are the best things about being an adult?
 
 
 
