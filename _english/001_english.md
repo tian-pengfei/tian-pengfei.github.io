@@ -18,22 +18,6 @@ category: [language,english]
 
 
 
-## Vocabulary
-
-|               |                                                              |
-| ------------- | ------------------------------------------------------------ |
-| scale         | `[ /skeɪl/]` A scale is a set of levels or numbers which are used in a particular system of measuring things or are used when comparing things. <br />`The higher up the social scale they are, the more the men have to lose.` |
-| venomous      | `[ /ˈvenəməs/] ` A venomous snake, spider, or other creature uses poison to attack other creatures.<br />`The adder is Britain's only venomous snake.` |
-| constrict     | `[ /kənˈstrɪkt/]` If a part of your body, especially your throat, is constricted or if it constricts, something causes it to become narrower<br />`My throat constricted, so that I had to concentrate on breathing.` |
-| perceptive    | `[ /pərˈseptɪv/]` If you describe a person or their remarks or thoughts as perceptive, you think that they are good at noticing or realizing things, especially things that are not obvious. <br />`He was one of the most perceptive US political commentators.` |
-| mortal        | `[/ˈmɔːrtl/]`You can use mortal to show that something is very serious or may cause death. <br />`The police were defending themselves and others against mortal danger` |
-| cope          | `[/koʊp/]`If you cope with a problem or task, you deal with it successfully<br />`The problems were an annoyance, but we managed to cope.` |
-| syndrome      | `[/ˈsɪndroʊm/]`  A syndrome is a medical condition that is characterized by a particular group of signs and symptoms.<br />`The syndrome is more likely to strike those whose immune systems are already below par.` |
-| fantasy       | `[/ˈfæntəsi/]` A fantasy is a pleasant situation or event that you think about and that you want to happen, especially one that is unlikely to happen.<br />`fantasies of romance and true love.` |
-| disadvantages | A disadvantage is a factor which makes someone or something less useful, acceptable, or successful than other people or things.<br />`the advantages and disadvantages of allowing priests to marry.` |
-
-
-
 
 
 ## Dialogue
@@ -261,6 +245,83 @@ and I'm so lucky to have you as my son.
     
 
 6. What are the best things about being an adult?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Example
+
+
+
+**scale**
+
+> Using a scale from 1 to 10, how would you rate your life at the moment?
+
+
+
+**cockroach**
+
+> When I went to Guangdong province for the business trip, I encountered many huge cockroaches, which startled me.
+
+
+
+**venomous**
+
+> Last month, I got bitten by a venomous ant. My arm swelled up, and I couldn't even sleep.
+
+
+
+**constrict**
+
+> Recently, I've been so busy with work that it constricts me from going out for fun; I need to rest.
+
+
+
+**necessary**
+
+> "It's a necessary quality for a police officer to be perceptive."
+
+
+
+**mortal**
+
+> "Sometimes the mortal enemy is ourselves, sometimes the closest friend is ourselves."
+
+
+
+**stomachache**
+"I remember when I was in high school, I would always pretend to have a stomachache and go to the school hospital."
+
+
+
+**syndrome**
+
+> "I experienced a very severe syndrome during the COVID-19 period."
 
 
 

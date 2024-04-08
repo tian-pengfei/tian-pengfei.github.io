@@ -66,3 +66,47 @@ The world is not fair, but it doesn't make it any less worthy of living.
 So go play with what you have carefully but boldly at the same time to unleash the unknown possibilities of life or change the game.
 
 Thank you.
+
+
+
+## Create sentences
+
+"Please create sentences using the following words, and ask your tutor to check if their usage is correct."
+
+
+
+|                |
+| -------------- |
+| chessboard     |
+| suppose        |
+| numerous       |
+| a bunch of     |
+| skeptical      |
+| knights        |
+| status         |
+| possess        |
+| capability     |
+| square         |
+| line up        |
+| declaration    |
+| self-evident   |
+| equal          |
+| ancestor       |
+| inherit        |
+| social capital |
+| magical        |
+| stage          |
+| paint          |
+| silver lining  |
+| true beauty    |
+| soldier        |
+| sufficient     |
+| tactic         |
+| rank           |
+| worthy         |
+| boldly         |
+| unleash        |
+| possibility    |
+|                |
+|                |
+
