@@ -15,6 +15,18 @@ category: [language]
 
 
 
+> Throughout the COVID-19 pandemic, Director of Microbiology Dr. Roberto Vargas worked long hours running tests at a hospital in Rochester, New York.
+>
+> Because of the risk of exposure, he made the difficult decision to isolate himself from his wife, Susan, and their four young kids. At the time of this conversation, he was living in the basement of their home.
+>
+> Using StoryCorps Connect, Dr. Vargas spoke virtually with his wife Susan and their 10-year-old son Xavier about the toll that this setup has taken on them, and the ways they have come together as a family despite the distance.
+
+
+
+## Conversation
+
+
+
 Roberto Vargas (RV): When I would go to the hotel room
 
 after a long day, and it was just me there,
@@ -125,3 +137,29 @@ But what carries me through is this family.
 
 
 
+## Create sentences
+
+“Please create sentences using the following words, and ask your tutor to check if their usage is correct.”
+
+
+
+|                         |
+| ----------------------- |
+| drop                    |
+| grocery                 |
+| porch                   |
+| cell phone              |
+| exhaust                 |
+| eventually              |
+| basement                |
+| down,under,below,bottom |
+| effort                  |
+| stair                   |
+| dish                    |
+|                         |
+
+
+
+
+
+## Example
